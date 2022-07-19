@@ -5,7 +5,7 @@
 
 #include "mahasiswa.c"
 
-//  UAS - 2501973722 - Kenneth William Noverianto
+//  UAS - LA75 - 2501973722 - Kenneth William Noverianto
 
 #define MxN 255
 #define cls system("cls");
